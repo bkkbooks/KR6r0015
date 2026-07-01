@@ -1,0 +1,362 @@
+canonical_identifier: bkk:krp/KR6r0015/T/v1
+canonical_location: https://kanripo.org/bkk/KR6r0015/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋鑑稽古略續集
+  identifiers:
+    krp: KR6r0015
+    cbeta: T49n2038
+    cbeta_old_id: T49n2038
+    authorityid: CA0003128
+    json_key: T2038
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T49/T49n2038.xml
+    old_id: T49n2038
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0015_000-T.yaml, hash: 'sha256:ff9f8077aab3aa613eba997d46b744170e1fe555af00e0433e8d6fd3a1dc69b7'}
+  - {seq: 1, filename: KR6r0015_001-T.yaml, hash: 'sha256:bb6f61955a47c5f7749479f82b38067a6a59452c7c6eb85eecfe66e2846ffe41'}
+  - {seq: 2, filename: KR6r0015_002-T.yaml, hash: 'sha256:b4462d495381dc26c0280108596295ba96438653d54284c70d14e9f9ffdd8680'}
+  - {seq: 3, filename: KR6r0015_003-T.yaml, hash: 'sha256:b1c13cfb1b86e1ae52567c4b6095220c86384e6ca7391681411e527e3260618a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0015_000-T.markers.yaml, hash: 'sha256:4a4db3ed2689f8e872bb530f1357bc04e57919802ac407274284a2eda6bd4776'}
+  - {seq: 1, role: markers, filename: assets/KR6r0015_001-T.markers.yaml, hash: 'sha256:ff3cce8315bda14b32bf4b343bce9c0b18866116418afae40c7a5493c4b4be85'}
+  - {seq: 2, role: markers, filename: assets/KR6r0015_002-T.markers.yaml, hash: 'sha256:e6ee602574be0cd622afa51a96b77e0b2e9a3c9e71f1fc2aeae16ef417b98020'}
+  - {seq: 3, role: markers, filename: assets/KR6r0015_003-T.markers.yaml, hash: 'sha256:38a197d44d40fe6cbbba41822758e7069415e8fed65a41b151966236bd0b1046'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0015_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 續刻釋氏稽古略序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0015_T_000-mulu-2
+    span:
+    - front
+    - 463
+    - 463
+  label: 續集稽古略敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 23154
+  label: 釋鑑稽古略續集一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-mulu-1
+    span:
+    - body
+    - 23
+    - 23
+  label: 元
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-mulu-2
+    span:
+    - body
+    - 170
+    - 170
+  label: 世祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-mulu-3
+    span:
+    - body
+    - 7270
+    - 7270
+  label: 成宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-mulu-4
+    span:
+    - body
+    - 8536
+    - 8536
+  label: 武宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-mulu-5
+    span:
+    - body
+    - 9395
+    - 9395
+  label: 仁宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-mulu-6
+    span:
+    - body
+    - 11686
+    - 11686
+  label: 英宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-mulu-7
+    span:
+    - body
+    - 12998
+    - 12998
+  label: 泰定帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-mulu-8
+    span:
+    - body
+    - 13168
+    - 13168
+  label: 明宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-mulu-9
+    span:
+    - body
+    - 13265
+    - 13265
+  label: 文宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-mulu-10
+    span:
+    - body
+    - 13768
+    - 13768
+  label: 寧宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0015_T_001-mulu-11
+    span:
+    - body
+    - 13957
+    - 13957
+  label: 順宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0015_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 25787
+  label: 釋鑑稽古略續集二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0015_T_002-mulu-1
+    span:
+    - body
+    - 23
+    - 23
+  label: 明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0015_T_002-mulu-2
+    span:
+    - body
+    - 77
+    - 77
+  label: 太祖高皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 17758
+  label: 釋鑑稽古略續集
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-1
+    span:
+    - body
+    - 23
+    - 23
+  label: 建文皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-2
+    span:
+    - body
+    - 1649
+    - 1649
+  label: 太宗文皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-3
+    span:
+    - body
+    - 4999
+    - 4999
+  label: 仁宗昭皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-4
+    span:
+    - body
+    - 5332
+    - 5332
+  label: 宣宗章皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-5
+    span:
+    - body
+    - 6399
+    - 6399
+  label: 英宗睿皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-6
+    span:
+    - body
+    - 7674
+    - 7674
+  label: 景皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-7
+    span:
+    - body
+    - 8282
+    - 8282
+  label: 英宗復辟
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-8
+    span:
+    - body
+    - 9062
+    - 9062
+  label: 憲宗純皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-9
+    span:
+    - body
+    - 9832
+    - 9832
+  label: 孝宗敬皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-10
+    span:
+    - body
+    - 10547
+    - 10547
+  label: 武宗毅皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-11
+    span:
+    - body
+    - 11665
+    - 11665
+  label: 世宗肅皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-12
+    span:
+    - body
+    - 13463
+    - 13463
+  label: 穆宗莊皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-13
+    span:
+    - body
+    - 14211
+    - 14211
+  label: 神宗顯皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-14
+    span:
+    - body
+    - 17378
+    - 17378
+  label: 光宗貞皇帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0015_T_003-mulu-15
+    span:
+    - body
+    - 17506
+    - 17506
+  label: 熹宗哲皇帝
+  type: mulu
+  level: 1
+hash: sha256:fbca945c0fbe48cdee1db6522775669df324a5f1fdd2151c3d7457dea202e58c
