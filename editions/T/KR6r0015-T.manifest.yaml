@@ -19,12 +19,12 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0015_000-T.yaml, hash: 'sha256:ff9f8077aab3aa613eba997d46b744170e1fe555af00e0433e8d6fd3a1dc69b7'}
+  - {seq: 0, filename: KR6r0015_000-T.yaml, hash: 'sha256:72871164073c51f336a6935e6fc9d531b0f127fff7254a12c35aeaaab66b4105'}
   - {seq: 1, filename: KR6r0015_001-T.yaml, hash: 'sha256:bb6f61955a47c5f7749479f82b38067a6a59452c7c6eb85eecfe66e2846ffe41'}
   - {seq: 2, filename: KR6r0015_002-T.yaml, hash: 'sha256:b4462d495381dc26c0280108596295ba96438653d54284c70d14e9f9ffdd8680'}
   - {seq: 3, filename: KR6r0015_003-T.yaml, hash: 'sha256:b1c13cfb1b86e1ae52567c4b6095220c86384e6ca7391681411e527e3260618a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0015_000-T.markers.yaml, hash: 'sha256:4a4db3ed2689f8e872bb530f1357bc04e57919802ac407274284a2eda6bd4776'}
+  - {seq: 0, role: markers, filename: assets/KR6r0015_000-T.markers.yaml, hash: 'sha256:ece84c93668229e7dee367ecd3f061b5f1096c7abba8601288b9c3b6d6cd2c2d'}
   - {seq: 1, role: markers, filename: assets/KR6r0015_001-T.markers.yaml, hash: 'sha256:ff3cce8315bda14b32bf4b343bce9c0b18866116418afae40c7a5493c4b4be85'}
   - {seq: 2, role: markers, filename: assets/KR6r0015_002-T.markers.yaml, hash: 'sha256:e6ee602574be0cd622afa51a96b77e0b2e9a3c9e71f1fc2aeae16ef417b98020'}
   - {seq: 3, role: markers, filename: assets/KR6r0015_003-T.markers.yaml, hash: 'sha256:38a197d44d40fe6cbbba41822758e7069415e8fed65a41b151966236bd0b1046'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0015_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 續刻釋氏稽古略序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0015_T_000-mulu-2
     span:
-    - front
+    - body
     - 463
     - 463
   label: 續集稽古略敘
@@ -359,4 +359,4 @@ table_of_contents:
   label: 熹宗哲皇帝
   type: mulu
   level: 1
-hash: sha256:fbca945c0fbe48cdee1db6522775669df324a5f1fdd2151c3d7457dea202e58c
+hash: sha256:f193aa280958f655287f47c07bffca89b89409bdeaf0eeac25ec342edfbed1d1
